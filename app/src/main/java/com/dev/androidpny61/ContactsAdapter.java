@@ -32,6 +32,10 @@ public class ContactsAdapter extends RecyclerView.Adapter<ContactsAdapter.contac
 
     }
 
+
+
+
+
     // view create
     @NonNull
     @Override
